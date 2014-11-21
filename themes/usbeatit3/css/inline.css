@@ -1,0 +1,204 @@
+.menutop li .fusion-submenu-wrapper {float: none;display: none;position: absolute;z-index: 1500; top: 52px; left: 0px;}
+.menutop li li .fusion-submenu-wrapper {float: none;display: none;position: absolute;z-index: 1500; top: 0px; left: 179px;}
+
+.module-content ul.menu li.active > a, .module-content ul.menu li.active > .separator, .module-content ul.menu li.active > .item, .module-content ul.menu li > a:hover, .module-content ul.menu li .separator:hover, .module-content ul.menu li > .item:hover {color:#A70000;}
+.box1 .module-content ul.menu li.active > a, .box1 .module-content ul.menu li.active > .separator, .box1 .module-content ul.menu li.active > .item, .box1 .module-content ul.menu li > a:hover, .box1 .module-content ul.menu li .separator:hover, .box1 .module-content ul.menu li > .item:hover {color:#A70000;}
+.box2 .module-content ul.menu li.active > a, .box2 .module-content ul.menu li.active > .separator, .box2 .module-content ul.menu li.active > .item, .box2 .module-content ul.menu li > a:hover, .box2 .module-content ul.menu li .separator:hover, .box2 .module-content ul.menu li > .item:hover {color:#FFFFFF;}
+.box3 .module-content ul.menu li.active > a, .box3 .module-content ul.menu li.active > .separator, .box3 .module-content ul.menu li.active > .item, .box3 .module-content ul.menu li > a:hover, .box3 .module-content ul.menu li .separator:hover, .box3 .module-content ul.menu li > .item:hover {color:#FFFFFF;}
+body {background:#EEEEEE;}
+#rt-header, #rt-top, #rt-navigation {background:#FFFFFF;}
+.menutop ul {background-color:#FFFFFF;}
+#rt-header, #rt-header .title, #rt-top, #rt-top .title, #rt-navigation {color:#666666;}
+#rt-header .module-content a, #rt-header .title span, #rt-top a, #rt-top .title span, #rt-navigation .module-content a {color:#A70000;}
+.menutop li.root > .item, .menutop li > .item {color:#666666;}
+.menutop li.root.active > .item, .menutop li.root.active > .item:hover, .menutop li.root.active.f-mainparent-itemfocus > .item, .menutop li.root:hover > .item, .menutop li.root.f-mainparent-itemfocus > .item, .menutop li:hover > .image, .menutop li.f-menuparent-itemfocus .image, .menutop li.active > .image, .menutop li.active > .image, .menutop li:hover > .bullet, .menutop li.f-menuparent-itemfocus .bullet, .menutop li.active > .bullet, .menutop li.active > .bullet, .menu-type-splitmenu .menutop li.active .item, .menu-type-splitmenu .menutop li:hover .item, body #idrops li.root-sub a, body #idrops li.root-sub span.separator, body #idrops li.root-sub.active a, body #idrops li.root-sub.active span.separator {color:#A70000;}
+#rt-header .menutop li a:hover{color:#A70000;}
+#rt-body-bg2, #more-articles span, #form-login .inputbox, body #roksearch_results .roksearch_header, body #roksearch_results .roksearch_row_btm, body #roksearch_results .roksearch_even:hover, body #roksearch_results .roksearch_odd:hover {background:#FFFFFF;}
+#roksearch_search_str {background-color:#FFFFFF !important;}
+.title1 .title, .title1 .title span, .title1 .title a, .title1 .title a span, .title2 .title, .title2 .title span, .title2 .title a, .title2 .title a span, .number-image {color:#FFFFFF;}
+body, #rt-bottom, legend, a:hover, .button:hover, .module-content ul.menu a, .module-content ul.menu .separator, .module-content ul.menu .item, .roktabs-wrapper .roktabs-links li span, #rokajaxsearch .inputbox, #form-login .inputbox {color:#555555;}
+a, .button, .module-content ul.menu a:hover, .module-content ul.menu .separator:hover, .module-content ul.menu .item:hover, .roktabs-wrapper .roktabs-links li.active span, .heading1, .box1 .title {color:#A70000;}
+#rt-footer-surround {background:#333333;}
+#rt-footer, #rt-footer .module-content a:hover, #rt-copyright, #rt-copyright a:hover, #rt-footer .title, #rt-copyright .title {color:#999999;}
+#rt-footer .module-content a, #rt-copyright a, #rt-footer .title span, #rt-copyright .title span {color:#FFFFFF;}
+.box1 .rt-block, .box1 .rt-article-bg, .roktabs-wrapper .active-arrows, .title3 .module-title-surround, #more-articles, .details-layout3 .rt-joomla .rt-articleinfo, .rt-joomla .inputbox, .rt-joomla input#email, .rt-joomla input#name, .rt-joomla input#username, .rt-joomla input#password, .rt-joomla input#password2, .rt-joomla input#passwd, body #roksearch_results {background:#F1F1F1;}
+.box1 .number-image {color:#F1F1F1;}
+.box1 .rt-block, .roktabs-wrapper .active-arrows, .title3 .module-title-surround, .details-layout1 .rt-articleinfo, .roktabs-wrapper .roktabs-links ul li, #more-articles, #more-articles span, .details-layout3 .rt-joomla .rt-articleinfo, #rokajaxsearch .inputbox, .box1 .rt-article-bg, body #roksearch_results, body #roksearch_results .roksearch_header, body #roksearch_results .roksearch_even, body #roksearch_results .roksearch_odd {border-color:#E3E3E3;}
+#more-articles.disabled, #more-articles.disabled:hover {color: #999999}
+.box1 .module-content, .box1 .module-content .button:hover, .box1 .title, .title3 .title, .title3 .title a, .box1 .module-content a:hover, .rt-joomla .inputbox, .rt-joomla  input#email, #rt-main input#name, .rt-joomla input#username, .rt-joomla input#password, .rt-joomla input#password2, .rt-joomla input#passwd {color:#555555;}
+.box1 .module-content a, .box1 .module-content .button, .box1 .title span, .title3 .title span, .title3 .title a span {color:#A70000;}
+.box2 .rt-block, .box2 .rt-article-bg, .title1 .module-title-surround, .title4 .module-title-surround {background:#999999;}
+.box2 .number-image {color:#999999;}
+.box2 .rt-block, .title4 .module-title-surround, .box2 .rt-article-bg {border-color:#7C7C7C;}
+.box2 .module-content, .box2 .title, .title4 .title, .title4 .title a, .box2 .module-content a:hover, .box2 .module-content .button:hover, .box2 .module-content ul.menu li a, .box2 .module-content ul.menu li .separator, .box2 .module-content ul.menu li .item {color:#DDDDDD;}
+.box2 .module-content a, .box2 .module-content .button, .box2 .title span, .title4 .title span, .title4 .title a span {color:#FFFFFF;}
+.box3 .rt-block, .box3 .rt-article-bg, .title2 .module-title-surround, .title5 .module-title-surround {background:#666666;}
+.box3 .number-image {color:#666666;}
+.box3 .rt-block, .title5 .module-title-surround, .box3 .rt-article-bg {border-color:#555555;}
+.box3 .module-content, .box3 .module-content .button:hover, .box3 .title, .title5 .title, .title5 .title a, .box3 .module-content a:hover, .box3 .module-content ul.menu li a, .box3 .module-content ul.menu li .separator, .box3 .module-content ul.menu li .item {color:#DDDDDD;}
+.box3 .module-content a, .box3 .module-content .button, .box3 .title span, .title5 .title span, .title5 .title a span {color:#FFFFFF;}
+.rt-joomla th, .rt-joomla tr.even td  {background:#F1F1F1;}
+.rt-joomla th {border-bottom: 2px solid #E3E3E3;}
+.rt-joomla tr.even td  {border-bottom: 1px solid #E3E3E3;}
+body.rt-normal .rt-articleinfo, body.rt-flipped .rt-articleinfo, body.rt-left .rt-articleinfo, body.rt-right .rt-articleinfo {color:#A70000;}
+body.rt-normal .rt-articleinfo, body.rt-flipped .rt-articleinfo, body.rt-left .rt-articleinfo, body.rt-right .rt-articleinfo {background:#F1F1F1;}
+#rt-rotator-bg {background-image: url('../images/header/squash.jpg');}
+body #community-wrap .label, body #cWindow .label {color:#555555;}
+#community-wrap .joms-apps .app-item.app-core, body #community-wrap .advance-not-found, body #community-wrap .event-not-found, body #community-wrap .group-not-found, body #community-wrap .people-not-found, body #community-wrap .video-not-found, body #community-wrap .community-empty-list, #cWindow .community-empty-list, #community-wrap .cSubmenu, body #community-admin-wrapper, #community-wrap div.profile-toolbox-bl,div.joms-newsfeed-item .newsfeed-content-hidden, body #community-wrap div.greybox div div {background:#F1F1F1;}
+body #rt-main #community-wrap #cToolbarNav.cToolbar ul#cToolbarNavList div, body #rt-main #community-wrap #cToolbarNav.cToolbar .cToolbar, body #rt-main #rt-mainbody #community-wrap #cToolbarNav.cToolbar {background-color:#FFFFFF !important;}
+body #rt-main #community-wrap #cToolbarNav.cToolbar ul#cToolbarNavList li a,body #rt-main #community-wrap .cSubmenu ul.submenu li a  {color:#A70000 !important;}
+body #community-wrap .inputbox, body #community-wrap div.profile-info .contentheading, body #rt-main #community-wrap .app-box-title,body #community-wrap div.greybox div div div h2, body #community-wrap div.greybox div div div h1, body #rt-main #community-wrap .cModule h3,body #community-wrap div.ctitle h2  {color:#555555;}
+body #rt-main #community-wrap .inputbox, #community-wrap .app-item, #community-wrap .joms-apps .app-item.app-core, body #community-wrap .advance-not-found, body #community-wrap .event-not-found, body #community-wrap .group-not-found, body #community-wrap .people-not-found, body #community-wrap .video-not-found, body #community-wrap .community-empty-list, #cWindow .community-empty-list, #community-wrap ul.submenu li a, #community-wrap ul.submenu li span, body #community-wrap #cFilterBar, body #community-admin-wrapper, #community-wrap .cModule h4, body #community-wrap .profile-avatar img, body #community-wrap div.profile-box, body #community-wrap #profile-new-status textarea#statustext, div.joms-newsfeed-item, body #community-wrap .video-item .video-item, #community-wrap .app-box-footer, #community-wrap a img.avatar, body #community-wrap .inputbox, body #community-wrap div.greybox, body #community-wrap div#profile-status,body #rt-main #community-wrap .newsfeed-item, body #rt-main #community-wrap div.ctitle, body #rt-main #community-wrap .app-box-header,body #rt-main #community-wrap .cModule h3, body #rt-main #community-wrap .cModule.searchbox .input_wrap, body #rt-main #community-wrap .group-menus {border-color:#E3E3E3;}
+body #rt-main #community-wrap .group-menu a, body #rt-main #community-wrap .group-menu.important a {color:#A70000;}
+div.itemCommentsForm form input#submitCommentButton, div.itemAuthorBlock, div.itemAuthorBlock, div.itemAuthorBlock, body.cssstyle-style4 div.itemAuthorBlock, div.itemAuthorBlock, div.itemAuthorBlock, div.userItemCategory, div.itemCategory, div.subCategory, div.itemListCategory {background:#F1F1F1;}
+div.itemCommentsForm form input#submitCommentButton, .itemAuthorLatest h3, div.itemHeader h2.itemTitle, span.catItemImage img, div.itemHeader h2.itemTitle {color:#555555;}
+div.itemCommentsForm form input#submitCommentButton, div.itemCommentsForm p.itemCommentsFormNotes, div.itemAuthorBlock img.itemAuthorAvatar, div.itemComments, span.itemImage img, div.userBlock img, div.catItemHeader h3.catItemTitle, div.userBlock p.userAdditionalInfo, div.catItemTagsBlock, div.catItemCategory, div.itemHitsTwitter, .itemAuthorLatest h3, div.itemHeader h2.itemTitle, span.catItemImage img, div.itemHeader h2.itemTitle, div.itemSocialLinksBlock, div.subCategory, div.itemListCategory {border-color:#E3E3E3;}
+#vmMainPage h1, #vmMainPage h2, #vmMainPage h3, #vmMainPage h4 {border-color:#E3E3E3;}
+#vmMainPage h1, #vmMainPage h3 {color:#555555;}
+div#tienda_product_header span.product_name, .tienda_header {border-color:#E3E3E3;}
+div#tienda_product_header span.product_name, .tienda_header span, div#tienda_category_header span {color:#555555;}
+
+div.comment-info strong.user a{
+	color: #555555;
+	font-weight: bolder;
+}
+div.comments-buttons {
+	float: right;
+}
+div.comments-buttons a {
+	font-size: 11px;
+	color: #555555;
+}
+
+div.comments-buttons a:hover {
+	color: #A70000;
+}
+
+.comment-item {
+    padding-bottom: 10px;
+	padding-left: 15px;
+	margin: 0px;
+	border-left: 3px solid #ccc;
+	position: relative;
+}
+
+.comment-item:before {
+	border: solid #333;
+	content: " ";
+	height: 0;
+	width: 0;
+	position: absolute;
+	pointer-events: none;
+    background-color: white;
+	border-color: #ccc;
+	border-width: 3px;
+    bottom: -16px;
+	width: 7px;
+	height: 7px;
+	left: -8px;
+}.comment-bullet, .comment-item:before {
+	position: absolute;
+	border-radius: 10px;
+}
+.comment-bullet {
+	background-color: #ccc;
+	border: 3px solid white;
+	width: 13px;
+	height: 13px;
+	left: -11px;
+}
+.comment-bullet:hover {
+	background-color: #A70000;
+}
+div.rok-comment-entry, #jc {
+	position: relative;
+	padding: 10px;
+	border: 1px solid #CCC;
+}
+#jc {
+    margin-left: 18px;
+}
+#comments > br {
+    display: none;
+}
+
+div.rok-comment-entry h4 {
+	margin-top:  0px;
+    display: inline-block;
+}
+
+div.rok-comment-entry:before,
+div.rok-comment-entry:after,
+#jc:before,
+#jc:after {
+	border: solid transparent;
+	content: " ";
+	height: 0;
+	width: 0;
+	position: absolute;
+	pointer-events: none;
+	border-color: transparent;
+	border-width: 6px 8px;
+	top: 3px;
+}
+/* creates the larger triangle */
+div.rok-comment-entry:before, #jc:before  {
+	border-right-color: #CCC;
+    left: -17px;
+}
+
+/* creates the smaller  triangle */
+div.rok-comment-entry:after, #jc:after  {
+	border-right-color: white;
+    left: -16px;
+}
+
+.comment-item time {
+    float: right;
+    display: inline-block;
+}.rt-pagination {display: none;}
+body #rt-logo {width:255px;height:37px;}
+
+#ourlogo {
+	padding: 0px;
+	margin: 0px;
+}
+.collapsible legend {
+    cursor: pointer;
+}
+.collapsible.collapsed legend:before {
+    content: "\25BC  ";
+}
+
+.collapsible legend:before {
+    content: "\25B2  ";
+}
+
+#messages .error {
+  background: #fcc;
+  color: #200;
+  border: 1px solid #d77;
+}
+#messages .warning {
+  background: #ffd;
+  border-color: #E1B42F;
+}
+#messages .ok {
+  background: #dfd;
+  border: 1px solid #7d7;
+}
+
+#messages ul {
+    list-style: none;
+    padding: 0px;
+}
+#messages ul li {
+    font-size: 110%;   
+}
+
+.contacttable {
+    padding: 0px;
+}
+.contacttable td {
+    padding: 0px 20px 0px 0px;
+}

@@ -1,0 +1,70 @@
+
+/******************************
+ Global CSS for ALL menu types
+******************************/
+
+ul.nice-menu,
+ul.nice-menu ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+ul.nice-menu li {
+  float: left;
+  /* Additional overrides to deal with Garland theme. */
+  margin: 0;
+  padding-left: 0;
+  background-image: none;
+}
+
+ul.nice-menu a {
+  padding: 0.3em 5px 0.3em 5px;
+}
+
+ul.nice-menu ul{
+/*  top: 1.8em;
+*/  left: -1px;
+  border-left: 3px solid red;
+  margin-right: 10;
+}
+
+ul.nice-menu ul li {
+  width: 12.5em;
+  background: #0D6FA1;
+}
+
+/******************************
+ HORIZONTAL (down) menus
+******************************/
+
+ul.nice-menu-down {
+  float: left;
+  border: 0;
+}
+
+ul.nice-menu-down li {
+/*  border-top: 1px solid #ccc;
+*/
+}
+
+ul.nice-menu-down li li {
+  border-top: 0;
+}
+
+ul.nice-menu-down ul {
+  left: -33px;
+}
+
+ul.nice-menu-down ul li {
+  clear: both;
+}
+
+ul.nice-menu-down li ul li ul{
+  left: 12.5em;
+  top: -1px;
+}
+
+ul.nice-menu-down .menuparent a {
+  padding-right: 15px;
+}

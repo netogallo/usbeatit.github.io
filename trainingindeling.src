@@ -1,4 +1,3 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html lang="nl" xml:lang="nl" xmlns="http://www.w3.org/1999/xhtml" data-ember-extension="1" class="js"><head>
 <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
 		<meta content="text/html; charset=utf-8" http-equiv="Content-Type">
@@ -7,9 +6,7 @@
     <script type="text/javascript" src="/misc/drupal.js"></script>
     <script type="text/javascript" src="/modules/nice_menus/nice_menus.js"></script>
     <![endif]-->
-<link href="http://www.usbeatit.nl/rss.xml" title="Squashvereniging BEAT IT RSS" type="application/rss+xml" rel="alternate">
-
-		<title>Squashvereniging BEAT IT | Beat it, beat it, beat it!</title>
+		<title>Trainingindeling huidig blok | Squashvereniging BEAT IT</title>
 		<style media="all" type="text/css">@import "/modules/event/event.css";</style>
 <style media="all" type="text/css">@import "/modules/graphstat/graphstat.css";</style>
 <style media="all" type="text/css">@import "/modules/img_assist/img_assist.css";</style>
@@ -74,16 +71,16 @@
 						</div>
 						<div class="rt-grid-10 rt-omega">
 							<div class="nopill">
-																	<ul class="menutop level1"><li class="parent root active"><a class="parent item bullet" href="/"><span>Home</span></a><div class="fusion-submenu-wrapper level2" style="display: none;">
+																	<ul class="menutop level1"><li class="parent root"><a class="parent item bullet" href="/"><span>Home</span></a><div class="fusion-submenu-wrapper level2">
             <div class="drop-top"></div>
-            <ul class="level2"><li class=""><a class="orphan item bullet" href="/overons.html"><span>Over ons</span></a></li>
-<li class=""><a class="orphan item bullet" href="/oversquash.html"><span>Over Squash</span></a></li>
+            <ul class="level2"><li class=""><a class="orphan item bullet" href="/overons"><span>Over ons</span></a></li>
+<li class=""><a class="orphan item bullet" href="/oversquash"><span>Over Squash</span></a></li>
 </ul></div>
 </li>
-<li class="parent root"><a class="parent item bullet" href="/overons.html"><span>Vereniging</span></a><div class="fusion-submenu-wrapper level2" style="display: none;">
+<li class="parent root"><a class="parent item bullet" href="/overons"><span>Vereniging</span></a><div class="fusion-submenu-wrapper level2" style="display: none;">
             <div class="drop-top"></div>
-            <ul class="level2"><li class=""><a class="orphan item bullet" href="/lidmaatschap.html"><span>Lid worden?</span></a></li>
-<li class=""><a class="orphan item bullet" title="informatie over het huidige bestuur en voorgaande besturen" href="/bestuur.html"><span>Bestuur</span></a></li>
+            <ul class="level2"><li class=""><a class="orphan item bullet" href="/lidmaatschap"><span>Lid worden?</span></a></li>
+<li class=""><a class="orphan item bullet" title="informatie over het huidige bestuur en voorgaande besturen" href="/bestuur"><span>Bestuur</span></a></li>
 
 
 
@@ -93,21 +90,21 @@
 
 
 
-<li class="parent root"><a class="parent item bullet" href="/training.html"><span>Training</span></a><div class="fusion-submenu-wrapper level2" style="display: none;">
+<li class="parent root active"><a class="parent item bullet" href="/training"><span>Training</span></a><div class="fusion-submenu-wrapper level2" style="display: none;">
             <div class="drop-top"></div>
-            <ul class="level2"><li class=""><a class="orphan item bullet" href="/trainingindeling.html"><span>Indeling</span></a></li>
-<li class=""><a class="orphan item bullet" title="Inschr. training" href="/training.html"><span>Inschr. Training</span></a></li>
+            <ul class="level2"><li class="active"><a class="orphan item bullet" href="/trainingindeling"><span>Indeling</span></a></li>
+<li class=""><a class="orphan item bullet" title="Inschr. training" href="/training"><span>Inschr. Training</span></a></li>
 </ul></div>
 </li>
-<li class="parent root"><a class="parent item bullet" href="/sponsors.html"><span>Sponsors</span></a><div class="fusion-submenu-wrapper level2" style="display: none;">
+<li class="parent root"><a class="parent item bullet" href="/sponsors"><span>Sponsors</span></a><div class="fusion-submenu-wrapper level2" style="display: none;">
             <div class="drop-top"></div>
-            <ul class="level2"><li class=""><a class="orphan item bullet" href="/sponsors.html"><span>Sponsors</span></a></li>
-<li class=""><a class="orphan item bullet" href="/sponsoring.html"><span>Ook sponsoren?</span></a></li>
+            <ul class="level2"><li class=""><a class="orphan item bullet" href="/sponsors"><span>Sponsors</span></a></li>
+<li class=""><a class="orphan item bullet" href="/sponsoring"><span>Ook sponsoren?</span></a></li>
 </ul></div>
 </li>
-<li class="parent root"><a class="parent item bullet" href="/contact"><span>Contact</span></a><div class="fusion-submenu-wrapper level2" style="display: none;">
+<li class="parent root"><a class="parent item bullet" href="/contact"><span>Contact</span></a><div class="fusion-submenu-wrapper level2">
             <div class="drop-top"></div>
-            <ul class="level2"><li class=""><a class="orphan item bullet" href="/mailinglists.html"><span>Mailinglists</span></a></li>
+            <ul class="level2"><li class=""><a class="orphan item bullet" href="/mailinglists"><span>Mailinglists</span></a></li>
 </ul></div>
 </li>
 </ul>
@@ -203,7 +200,7 @@
 															<div class="module-content">
 																<img width="101" height="69" class="feature-img" alt="over ons" src="/themes/usbeatit3/images/feature1.jpeg">
 																<p>Welkom bij US Beat It! Wij zijn de leukste studenten squashvereniging van Utrecht!</p>
-																<a href="/overons.html" class="readon"><span>Meer info</span></a>							
+																<a href="/overons" class="readon"><span>Meer info</span></a>							
 																<div class="clear"></div>
 															</div>
 														</div>
@@ -224,7 +221,7 @@
 															<div class="module-content">
 																<img width="101" height="69" class="feature-img" alt="Squashing" src="/themes/usbeatit3/images/squash.jpg">
 																<p>Wij organiseren clubavonden, trainingen, toernooien, competities en andere activiteiten!</p>
-																<a href="/training.html" class="readon"><span>Meer weten?</span></a>							
+																<a href="/training" class="readon"><span>Meer weten?</span></a>							
 																<div class="clear"></div>
 															</div>
 														</div>
@@ -235,7 +232,19 @@
 										
 										<div class="clear"></div>
 									</div>
-                                    																		<div class="mb8-sa4" id="rt-main">
+                                    																		<div id="rt-utility">
+										<div id="rt-breadcrumbs">
+											<div class="rt-breadcrumb-surround">
+												<a id="breadcrumbs-home" href="/"></a>
+												<span class="breadcrumbs pathway">
+													 <a href="/">Start</a> <img width="8" height="16" alt="separator" src="/themes/usbeatit3/images/arrow.png"> <a href="/training">Training</a> 
+												</span>
+											</div>
+											<div class="clear"></div>
+										</div>
+										<div class="clear"></div>
+									</div>
+																		<div class="mb8-sa4" id="rt-main">
 										<div class="rt-main-inner">
 											<div class="rt-grid-8 ">
 												<div class="rt-block">
@@ -253,273 +262,17 @@
 										<div class="module-title-surround">
 						<div class="module-title">
 							
-																	<h1 class="title">Herfsttoernooi</h1>
+																	<h1 class="title">Trainingindeling huidig blok</h1>
 															
 						</div>
-					</div>
+					<iframe src="https://docs.google.com/spreadsheets/d/1OTgfwcZbq0G1m0yfwP3ov3DsZ5Osz77HrDp34ZQPELM/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" style="height: 265px; width: 590px;"></iframe></div>
 										
-					<div class="module-content">
-						
-															<div class="rt-articleinfo">
-									
-									<span class="rt-date-posted">November 2, 2014</span>
-									<span class="rt-author">Written by <span>robertgrijsbach</span>
-									<div class="clear"></div>
-
-									
-								</span></div>	
-								
-							
 					
-							
-							<div class="event-nodeapi"><div class="event-start"><label>Start: </label>15/11/2014 - 11:00</div></div>
-<div class="event-nodeapi"><div class="event-end"><label>End: </label>15/11/2014 - 18:00</div></div>
-<p>Zaterdag 15 november is het zover, h&eacute;t eerste toernooi van het jaar!</p>
-
-<p>Kan jij bij deze eerste krachtmeting laten zien dat jij de beste van Beat It bent? </p>
-
-<p>Belangrijk: Inschrijven betekent dat je meedoet aan het toernooi. Wanneer je onverwachts niet mee kan doen moet je zorgen voor een invaller of het inschrijfgeld alsnog tegemoet komen.</p>
-
-<p><img class="bb-image" alt="" src="http://i.imgur.com/ckNNhkj.png"></p>
-
-<p></p>						
-														
-								
-																
-																<div class="clear"></div>
-								
-						
-					</div>
 					
 		
 	</div>								
 				
 </div>
-
-<div class="rt-article">
-	
-	<div class="rt-article-bg">
-	
-				
-		
-	
-										<div class="module-title-surround">
-						<div class="module-title">
-							
-																	<h1 class="title">ALV </h1>
-															
-						</div>
-					</div>
-										
-					<div class="module-content">
-						
-															<div class="rt-articleinfo">
-									
-									<span class="rt-date-posted">Oktober 6, 2014</span>
-									<span class="rt-author">Written by <span>michielmollevanger</span>
-									<div class="clear"></div>
-
-									
-								</span></div>	
-								
-							
-					
-							
-							<div class="event-nodeapi"><div class="event-start"><label>Start: </label>13/10/2014 - 19:30</div></div>
-<div class="event-nodeapi"><div class="event-end"><label>End: </label>13/10/2014 - 22:30</div></div>
-<p>Maandag 13 oktober zal de ALV van US Beat It plaatsvinden om 19:30 in vergaderzaal 2 van Olympos. Jullie zijn van harte welkom om hierbij aanwezig te zijn. Tijdens de ALV zal o.a.</p>						
-														
-								
-																
-																<div class="clear"></div>
-								
-						
-					</div>
-					
-		
-	</div>								
-				
-</div>
-
-<div class="rt-article">
-	
-	<div class="rt-article-bg">
-	
-				
-		
-	
-										<div class="module-title-surround">
-						<div class="module-title">
-							
-																	<h1 class="title">Open avond donderdag 4 en 11 september 20:00 - 23:00</h1>
-															
-						</div>
-					</div>
-										
-					<div class="module-content">
-						
-								
-							
-					
-							
-							<p>Wil je kennis maken met squash en US Beat It dan moet je donderdag 4 en 11 september in je agenda vrijhouden!</p>						
-														
-								
-																
-																<div class="clear"></div>
-								
-						
-					</div>
-					
-		
-	</div>								
-				
-</div>
-
-<div class="rt-article">
-	
-	<div class="rt-article-bg">
-	
-				
-		
-	
-										<div class="module-title-surround">
-						<div class="module-title">
-							
-																	<h1 class="title">Lid worden?</h1>
-															
-						</div>
-					</div>
-										
-					<div class="module-content">
-						
-								
-							
-					
-							
-							<p>Wil je lid worden van BEAT IT? Geweldig! Vanaf 1 augustus 2014 is het mogelijk je aan te melden.<br>
-Het is wel vereist dat je:<br>
-</p><ol style="list-style-type:upper-roman;" class="bb-list">
-<li>studeert aan een universiteit of hogeschool in Nederland.</li>
-<li>tenminste 16 jaar bent.</li>
-</ol>
-Het <a class="bb-url" href="/contact">bestuur</a> kan hierop een uitzondering maken.<p></p>
-
-<p>Voldoe je hier aan? Goed. Dan moet je de volgende stappen ondernemen: <br>
-</p><ol style="list-style-type:decimal;" class="bb-list">
-
-<li>Stuur een e-mail naar <a class="bb-email" href="mailto:bestuur@usbeatit.nl">bestuur@usbeatit.nl</a> met daarin je naam, username en hoe lang je lid wil zijn (1 seizoen bijvoorbeeld).</li>
-<li>Je ontvangt daarna een e-mail met daarin je wachtwoord, informatie over US Beat It en de hoogte van het lidmaatschapsgeld. Het hoogte van het lidmaatschap bedraagt 70 Euro,- voor een volledig seizoen (1 september - 31 juni). Mocht je halverwege het seizoen lid willen worden dan zal dit een lager bedrag zijn. </li>
-<li>Betalen van lidmaatschapsgeld (uitgaande van 1 seizoen): Schrijf <span style="font-weight:bold">€70,-</span>  over naar rekeningnummer <span style="font-weight:bold">IBAN: NL10INGB0005395077</span> t.n.v. US Beat It (BIC: INGBNL2A). Geef op je overschrijving aan hoe je username luidt.    </li>
-<li>Registreren als SSV-lid bij Olympos. Om bij Olympos te mogen sporten moet je een sportpas aanvragen. Vraag het bij de sportdesk of klik <a class="bb-url" href="http://webshop.olympos.nl/nl-nl/sportaanbod/verenigingen/alleverenigingen/details.aspx?sport=SQUASH#Verenigingen">hier</a>. Onderaan de pagina kun je de SSV-registratie aanschaffen voor ongeveer 25 euro.</li>
-<li>(Optioneel) Schaf een "all in plus" kaart aan bij Olympos, zodat je onbeperkt kunt squashen, tennissen, fitnessen bij Olympos. </li>
-</ol><p></p>
-
-<p>Meer informatie klik  <a class="bb-url" href="http://www.usbeatit.nl/lidmaatschap.html">hier</a>!</p>
-
-<p></p>						
-								
-						
-					</div>
-					
-		
-	</div>								
-				
-</div>
-
-<div class="rt-article">
-	
-	<div class="rt-article-bg">
-	
-				
-		
-	
-										<div class="module-title-surround">
-						<div class="module-title">
-							
-																	<h1 class="title">Introweekend </h1>
-															
-						</div>
-					</div>
-										
-					<div class="module-content">
-						
-															<div class="rt-articleinfo">
-									
-									<span class="rt-date-posted">September 4, 2014</span>
-									<span class="rt-author">Written by <span>Ine</span>
-									<div class="clear"></div>
-
-									
-								</span></div>	
-								
-							
-					
-							
-							<div class="event-nodeapi"><div class="event-start"><label>Start: </label>04/10/2014 - 12:00</div></div>
-<div class="event-nodeapi"><div class="event-end"><label>End: </label>05/10/2014 - 13:00</div></div>
-<p><img class="bb-image" alt="" src="http://i.imgur.com/7bP8b4b.jpg?1"></p>
-
-<p>In het weekend van 4 en 5 oktober is het introweekend, zet het alvast in je agenda!</p>						
-														
-								
-																
-																<div class="clear"></div>
-								
-						
-					</div>
-					
-		
-	</div>								
-				
-</div>
-
-<div class="rt-article">
-	
-	<div class="rt-article-bg">
-	
-				
-		
-	
-										<div class="module-title-surround">
-						<div class="module-title">
-							
-																	<h1 class="title">Kom gezellig langs en bezoek onze clubavonden!</h1>
-															
-						</div>
-					</div>
-										
-					<div class="module-content">
-						
-								
-							
-					
-							
-							<p>Op donderdagen is onze <b>clubavond</b> bij Sportcentrum Olympos (Uppsallalaan 3 te Utrecht)van <b>20:00 tot 23:00 uur</b>. Je bent welkom om langs te komen! Tijdens een clubavond hebben we 3 squashbanen beschikbaar (soms 4) waar iedereen met iedereen kan spelen. Zo leer je squashers van alle niveaus kennen. Het bestuur is bij iedere clubavond aanwezig om je te informeren over wat Beat It allemaal inhoudt en voor je kan betekenen.</p>
-
-<p>Wanneer je langskomt kun je van ons een racket lenen, zorg er wel voor dat je sportschoenen geen zwarte zolen hebben i.v.m. de vloer van de squashbaan.<br>
- <br>
-Hopelijk zien we je donderdag! </p>
-
-<p>Wil je <span style="font-weight:bold">Lid worden</span> volg dan de instructies op <a href="http://www.usbeatit.nl/lidmaatschap.html">www.usbeatit.nl/lidmaatschap</a> </p>
-
-<p></p>						
-								
-						
-					</div>
-					
-		
-	</div>								
-				
-</div>
-
-
-
-
-
-
-
-
 															</div>
 														</div>
 														<div class="clear"></div>
